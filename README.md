@@ -16,4 +16,5 @@ C3_Mini_BOSCH_Logo_Visualization [[LINK](https://wokwi.com/projects/423069242163
 C3_Mini_ARDUINO_Logo_Visualization [[LINK](https://wokwi.com/projects/425508100208502785).]
 C3_Mini_Adafruit_Logo_Visualization [[LINK](https://wokwi.com/projects/425511039846543361).]
 C3_Mini_Sparkfun_Logo_Visualization [[LINK](https://wokwi.com/projects/429587480998856705).]
-c3_Mini_SEEED_Logo_Visualization [[LINK](https://wokwi.com/projects/429588354969245697).]
+C3_Mini_SEEED_Logo_Visualization [[LINK](https://wokwi.com/projects/429588354969245697).]
+C3_Mini_WOKWI_Logo_Visualization [[LINK](https://wokwi.com/projects/429588354969245697).]

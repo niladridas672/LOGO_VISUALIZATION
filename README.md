@@ -19,3 +19,4 @@ C3_Mini_Sparkfun_Logo_Visualization [[LINK](https://wokwi.com/projects/429587480
 C3_Mini_SEEED_Logo_Visualization [[LINK](https://wokwi.com/projects/429588354969245697).]
 C3_Mini_WOKWI_Logo_Visualization [[LINK](https://wokwi.com/projects/429588354969245697).]
 C3_Mini_GITHUB_Logo_Visualization [[LINK](https://wokwi.com/projects/429592126837067777).]
+C3_Mini_MICROCHIP_logo_Visualization [[LINK](https://wokwi.com/projects/432129652928751617).]

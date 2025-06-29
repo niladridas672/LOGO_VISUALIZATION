@@ -26,3 +26,4 @@ C3_Mini_INTEL_logo_Visualization [[LINK](https://wokwi.com/projects/432133781488
 C3_Mini_LG_Logo_Visualization [[LINK](https://wokwi.com/projects/435107633382666241).]
 C3_Mini_SONY_Logo_Visualization [[LINK](https://wokwi.com/projects/435108070722803713).]
 C3_Mini_Panasonic_Logo_Visualization[[LINK](https://wokwi.com/projects/435108607185881089).]
+C3_Mini_Samsung_Logo_Visualization [[LINK](https://wokwi.com/projects/435109488417623041).]

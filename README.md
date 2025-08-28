@@ -29,3 +29,4 @@ C3_Mini_Panasonic_Logo_Visualization[[LINK](https://wokwi.com/projects/435108607
 C3_Mini_Samsung_Logo_Visualization [[LINK](https://wokwi.com/projects/435109488417623041).]
 C3_Mini_Schnider_Electric_Logo_Visualization [[LINK](https://wokwi.com/projects/440546954960965633).]
 C3_Mini_Toshiba_Logo_Visualization [[LINK](https://wokwi.com/projects/440547686327109633).]
+C3_Mini_Mitshubishi_Logo_Visualization [[LINK](https://wokwi.com/projects/440548314483995649).]

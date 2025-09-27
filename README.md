@@ -31,3 +31,4 @@ C3_Mini_Schnider_Electric_Logo_Visualization [[LINK](https://wokwi.com/projects/
 C3_Mini_Toshiba_Logo_Visualization [[LINK](https://wokwi.com/projects/440547686327109633).]
 C3_Mini_Mitshubishi_Logo_Visualization [[LINK](https://wokwi.com/projects/440548314483995649).]
 C3_Mini_General_Electric_Logo_Visualization [[lINK](https://wokwi.com/projects/440548984260948993).]
+C3_Mini_ABB_Logo [[LINK](https://wokwi.com/projects/443262312473997313).]

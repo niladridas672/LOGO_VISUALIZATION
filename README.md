@@ -32,3 +32,4 @@ C3_Mini_Toshiba_Logo_Visualization [[LINK](https://wokwi.com/projects/4405476863
 C3_Mini_Mitshubishi_Logo_Visualization [[LINK](https://wokwi.com/projects/440548314483995649).]
 C3_Mini_General_Electric_Logo_Visualization [[lINK](https://wokwi.com/projects/440548984260948993).]
 C3_Mini_ABB_Logo [[LINK](https://wokwi.com/projects/443262312473997313).]
+C3_Mini_Honeywell_Logo [[LINK](https://wokwi.com/projects/443264403826571265).]
